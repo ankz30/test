@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For My Best Friend</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8f0;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #e67e22;
+    }
+    img {
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      margin-top: 20px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hey Bestie! 🌟</h1>
+
+  <!-- Images -->
+  <img src="https://via.placeholder.com/300x200?text=Fun+Memory+1" alt="Fun Memory 1">
+  <img src="https://via.placeholder.com/300x200?text=Fun+Memory+2" alt="Fun Memory 2">
+  <img src="https://via.placeholder.com/300x200?text=Fun+Memory+3" alt="Fun Memory 3">
+
+  <!-- Personal Note -->
+  <p>
+    I just wanted to say thank you for always being there for me.  
+    Life is so much brighter with you in it! 🌈💖  
+    Here’s to more laughs, adventures, and memories together!
+  </p>
+
+</body>
+</html>
